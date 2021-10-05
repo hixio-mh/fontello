@@ -60,7 +60,7 @@
     "negotiator": "^0.6.1",
     "pointer": "^1.0.1",
     "postcss": "^7.0.14",
-    "pug": "^2.0.0-rc.2",
+    "pug": "^3.0.1",
     "pug-runtime": "^2.0.3",
     "puncher": "^1.1.1",
     "raw-body": "^2.2.0",
